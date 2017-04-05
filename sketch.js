@@ -1,3 +1,4 @@
+// hi
 
 var canvas;
 var lock;
