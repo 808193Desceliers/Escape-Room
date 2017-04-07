@@ -1,4 +1,4 @@
-// hi
+// hilksjfdglkfdgj
 
 var canvas;
 var lock;
@@ -232,3 +232,5 @@ function mouseReleased()
     lock = false;
   }
 }
+
+// end
